@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "medium-360x468.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
